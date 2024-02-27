@@ -33,3 +33,11 @@ git reset --hard head~3(volta três versões)
 .....
 .....
 .....
+
+--git clone (token do repositório para clonar em outra máquina e ter acesso)
+
+--git remote (o próprio github gera esse comando quando criamos o repositório)
+
+--git pish -u origin main (subir para o remoto)
+
+--git pull (verifica se a versão local está igual a versão remota
